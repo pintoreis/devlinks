@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> devlinks </h1>
 
 <p align="center">
 Projeto do curso Discover da Rocketseat. <br/>
@@ -19,7 +19,7 @@ Projeto do curso Discover da Rocketseat. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/github/devlinks-readme-cover.png" width="100%">
+  <img alt="projeto devlinks" src="./assets/github/devlinks-readme-cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Aceda ao projeto finalizado, online](https://github.com/pintoreis/projeto-discover)
+- [Aceda ao projeto finalizado, online](https://github.com/pintoreis/devlinks)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-paulo-reis)
 
