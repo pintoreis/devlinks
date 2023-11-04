@@ -33,7 +33,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O devlinks é um agregador de links para usar como cartão de visitas online.
 
 - [Aceda ao projeto finalizado, online](https://github.com/pintoreis/devlinks)
 
@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ Paulo Reis :wave: [Conecte-se. Vamos trabalhar juntos.!](https://www.linkedin.com/in/paulopintoreis/)
+Feito com ♥ Paulo Reis :wave: [Conecte-se. Vamos trabalhar juntos!](https://www.linkedin.com/in/paulopintoreis/)
