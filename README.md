@@ -1,7 +1,7 @@
 <h1 align="center"> devlinks </h1>
 
 <p align="center">
-Projeto do curso Discover da Rocketseat. <br/>
+Rocketseat Discover - Course Project <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-paulo-reis">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
