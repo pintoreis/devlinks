@@ -2,7 +2,7 @@
 
 <p align="center">
 Rocketseat Discover - Course Project <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-paulo-reis">Study this project in video format by clicking here!</a>
+<a href="https://www.rocketseat.com.br/discover">Study this project in video format by clicking here!</a>
 </p>
 
 <p align="center">
