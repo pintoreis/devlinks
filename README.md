@@ -2,7 +2,7 @@
 
 <p align="center">
 Rocketseat Discover - Course Project <br/>
-<a href="https://www.rocketseat.com.br/discover" target="_blank">Study this project in video format by clicking here!</a>
+<a href="http://www.rocketseat.com.br/discover">Study this project in video format by clicking here!</a>
 </p>
 
 <p align="center">
