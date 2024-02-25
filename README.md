@@ -21,7 +21,7 @@ Rocketseat Discover - Course Project <br/>
   <img alt="projeto devlinks" src="./assets/github/devlinks-readme-cover.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
