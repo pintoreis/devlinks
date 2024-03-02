@@ -25,12 +25,12 @@ Rocketseat Discover - Course Project <br/>
 
 This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
 O devlinks é um agregador de links para usar como cartão de visitas online.
 
