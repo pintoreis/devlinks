@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-O devlinks é um agregador de links para usar como cartão de visitas online.
+devlinks is a link aggregator to use as an online business card.
 
 - [Aceda ao projeto finalizado, online](https://github.com/pintoreis/devlinks)
 
