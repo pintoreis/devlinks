@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 
 devlinks is a link aggregator to use as an online business card.
 
-- [Aceda ao projeto finalizado, online](https://github.com/pintoreis/devlinks)
+- [Access the finished project](https://github.com/pintoreis/devlinks)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-paulo-reis)
 
