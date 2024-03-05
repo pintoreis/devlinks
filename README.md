@@ -36,7 +36,7 @@ devlinks is a link aggregator to use as an online business card.
 
 - [Access the finished project](https://github.com/pintoreis/devlinks)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-paulo-reis)
+- [Attend classes](https://www.rocketseat.com.br/discover)
 
 ## 🔖 Layout
 
