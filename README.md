@@ -40,7 +40,7 @@ devlinks is a link aggregator to use as an online business card.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através deste [LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para aceder.
+You can view the project layout through this [LINK](https://www.figma.com/community/file/1187422022288947321). You need to have a [Figma](https://www.figma.com/@devporto) account to access.
 
 ## :memo: Licença
 
