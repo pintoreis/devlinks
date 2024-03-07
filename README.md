@@ -44,7 +44,7 @@ You can view the project layout through this [LINK](https://www.figma.com/commun
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
 
