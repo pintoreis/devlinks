@@ -48,4 +48,4 @@ This project is under the MIT license.
 
 ---
 
-Feito com ♥ Paulo Reis :wave: [Conecte-se. Vamos trabalhar juntos!](https://www.linkedin.com/in/paulopintoreis/)
+Made with ♥ Paulo Reis :wave: [Connect with me. Let's work together!](https://www.linkedin.com/in/paulopintoreis/)
