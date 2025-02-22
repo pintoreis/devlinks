@@ -55,13 +55,10 @@ O margin no sentido ponteiro do relógio: top, right, bottom, left. Ao aplicar o
 Dica: se não estiver a perceber as alterações, colocar provisóriamente uma border para ver o comportamento da box e configurar o que se pretende com melhor visualização.
 */
 
-<<<<<<< HEAD
-=======
 .justificado {
   text-align: justify;
 }
 
->>>>>>> master
 #container {
   width: 100%;
   max-width: 588px;
